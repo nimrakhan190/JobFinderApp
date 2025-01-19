@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897317104690",
+    "project_id": "job-clone-app-ed573",
+    "storage_bucket": "job-clone-app-ed573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897317104690:android:b5292bd798b753f367602b",
+        "android_client_info": {
+          "package_name": "com.nimra.job_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQHdmbGeA7ttj1EIld1E2oS5VMDM7ef8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
